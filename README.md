@@ -1,3 +1,7 @@
+<!-- ===================== WAVE ANIMATION TOP ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:2563eb,100:1e40af&animation=fadeIn" alt="header wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Selamat%20Datang&fontSize=40&fontColor=2563eb&animation=blinking" alt="transparent header" width="100%" />
+
 <!-- Sapaan + animasi mengetik -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5NDNkYmJmOTlmNzQyZDJmZGEyYzk2YjJkNmNlMDk3M2YwODUwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -99,15 +103,31 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=terminator791&theme=onedark"/>
 </p>
 
+<h3 align="center">Leetcode</h3>
+
+<div align="center">
+  
+![Leetcode Stats](https://leetcard.jacoblin.cool/terminator791?theme=nord&ext=heatmap)
+<!-- 
+![Leetcode Stats](https://leetcard.jacoblin.cool/terminator791?theme=nord&ext=heatmap)
+-->
+</div>
+  
 <!-- Snake contributions (opsional; aktifkan bila suka) -->
 ![Snake animation](https://raw.githubusercontent.com/terminator791/terminator791/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ===================== FOOTER ===================== -->
+<!-- Quote of the day -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
   Terima Kasih Sudah Berkunjung!
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35">
 </h2>
 <!-- Gelombang footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,3,5" alt="footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:1e40af&animation=fadeIn" alt="footer wave" width="100%" />
+
 
