@@ -107,7 +107,7 @@
 
 <div align="center">
   
-![Leetcode Stats](https://leetcard.jacoblin.cool/terminator791?theme=nord&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/terminator791?theme=nord&ext=heatmap&font=bubblegum_sans)
 <!-- 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/terminator791?theme=nord&ext=heatmap)
 -->
